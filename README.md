@@ -4,6 +4,9 @@ Repo de práctica de la sesión **AI x A&I**. Mini-proyecto que lee un archivo d
 
 I am modifyng this to showcase to force a commit! 
 
+We are counting Guatemala on analysis besides pacifico 
+
+
 ## Archivos
 
 | Archivo | Qué es |
