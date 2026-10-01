@@ -2,6 +2,8 @@
 
 Repo de práctica de la sesión **AI x A&I**. Mini-proyecto que lee un archivo de ventas y genera un gráfico.
 
+I am modifyng this to showcase to force a commit! 
+
 ## Archivos
 
 | Archivo | Qué es |
